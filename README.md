@@ -1,16 +1,16 @@
 ### Hi there 👋
 
-<!--
-**MichalDudkiewicz/MichalDudkiewicz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 📫 How to reach me:
 
-Here are some ideas to get you started:
+- email 📧:  [michal.dudkiewicz96@gmail.com](michal.dudkiewicz96@gmail.com)
+- LinkedIn: [Michał Dudkiewicz](https://www.linkedin.com/in/micha%C5%82-dudkiewicz/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🏅 My github stats:
+
+<div>
+
+ <img align="left" src="https://github-readme-stats.vercel.app/api?username=MichalDudkiewicz&count_private=true&show_icons=true&theme=prussian">
+ 
+ <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=MichalDudkiewicz&count_private=true&show_icons=true&theme=prussian">
+
+</div>
