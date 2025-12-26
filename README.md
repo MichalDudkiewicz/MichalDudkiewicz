@@ -3,7 +3,7 @@
 ## 📫 How to reach me:
 
 - email 📧:  [michal.dudkiewicz96@gmail.com](michal.dudkiewicz96@gmail.com)
-- LinkedIn: [Michał Dudkiewicz](https://www.linkedin.com/in/micha%C5%82-dudkiewicz/)
+- LinkedIn: [Michał Dudkiewicz](https://www.linkedin.com/in/michal-dudkiewicz/)
 
 ## 🏅 My github stats:
 
